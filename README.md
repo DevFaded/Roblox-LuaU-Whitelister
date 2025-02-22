@@ -30,7 +30,7 @@ link and checks for a rai in our MySql table to match with the one passed throug
 valid along with the discord username.
 ```
 
-It has the following features: No logs (at least for my http logger), clear console, and discord username to roblox account.
+It has the following features: No logs, clear console, and discord username to roblox account.
 
 <h1>Credits</h1>
 - PixeIPenguin (For Base)
